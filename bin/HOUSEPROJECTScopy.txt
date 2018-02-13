@@ -1,0 +1,11 @@
+01Sand/stain beamhalf day sitting room   free   N
+02fix drywall    half day sitting room   free   N
+03ceiling        full day sitting/kitchen$25.00 N
+04paint hallway  1-3 hrs  hallway        $25.00 N
+05touch up trim  1-3 hrs  all rooms      $4.00  N
+06fix fireplace  full day+living room    unknownN
+07repair crack   1-3 hrs  living room    $25.00 N
+08garage-electric1-3 hrs  garage         free   N
+09garage-tape/mudfull day+garage         free   P
+10garage-paint   full day garage         $40.00 N
+11garage-pegboardfull day+garage         unknownN
